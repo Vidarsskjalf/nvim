@@ -1,0 +1,5 @@
+require('cursed.lazy')
+require('cursed.mason')
+require('cursed.options')
+require('cursed.keymap')
+require('cursed.treesitter')
